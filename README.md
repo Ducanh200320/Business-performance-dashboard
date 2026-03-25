@@ -8,19 +8,20 @@
 
 **Tools Used:** BI
 
-📦**Table of Contents:**
+**# Table of Contents:**
 - **Dataset Description & Data Structure**
 - **Outcome Dashboard:**
 
-1. **Dataset Description & Data Structure**
+**1. Dataset Description & Data Structure**
    
-   📌 Data Source
-    - **Source**: Kaggle
-    - **Format**:Pbix
+   **📌 Data Source**
+   
+    - Source: Kaggle
+    - Format:Pbix
       
     📊 Data Structure & Relationships
-  
-    The dataset consists of **5 main tables:**
+
+    The dataset consists of 5 main tables:
   - **customer.csv (Customer Information):**
     - Contains profiles for over 12,000 customers.
     - Key fields: customer id, age, and gender. This is the primary data for     demographic analysis.
@@ -38,16 +39,23 @@
     - A lookup table for delivery methods (Standard, Expedited, Express, Overnight, Same Day).
     - Key fields: shipping id, shipping category, and the associated cost level (Low to Very High).
  
-**Data relationships:**
+**📦Data relationships:**
+         
+<img width="795" height="428" alt="image" src="https://github.com/user-attachments/assets/e48bf888-e425-4999-9cae-fe31e8319237" />
 
- <img width="570" height="290" alt="Aspose Words 342cd697-a231-4f0c-980a-f422dcefcda1 002" src="https://github.com/user-attachments/assets/d855a919-73cc-48e4-a1cc-50348691588f" />
 
 
 
-2. **Outcome Dashboard:**
+
+**2. Outcome Dashboard:**
 
    **🔗Visual Link:** https://app.powerbi.com/view?r=eyJrIjoiYzFiM2ZlNjUtZWQ0Yi00MTgzLWFkMWMtYzExZmU5ODM0NWFjIiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D
-<img width="574" height="324" alt="Aspose Words 342cd697-a231-4f0c-980a-f422dcefcda1 003" src="https://github.com/user-attachments/assets/dea9dd40-b432-40fa-a45a-468aa053e79a" />
+
+      <img width="705" height="401" alt="image" src="https://github.com/user-attachments/assets/420e5364-8c5b-4c7c-8035-8e60e8e371ae" />
+
+
+
+
 
 
 
